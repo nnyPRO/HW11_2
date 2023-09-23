@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
-# ชื่อ นามสกุล (ชื่อเล่น)
-# 6XXXXXXXX
+# เมษนี ลายเฮือง (แนน)
+# 650510676
 # HW11_2
-# 204203 Sec 00?
+# 204203 Sec 002
 
 # # Ecommerce Purchases Exercise
 
